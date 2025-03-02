@@ -1,0 +1,15 @@
+vo_kate_ft_1.mp3|宿世轮回，只为今世回眸。
+vo_kate_ft_1_b.mp3|听，是月牙泉畔的沙鸣声
+vo_kate_ft_skill_1.mp3|凌云踏九霄
+vo_kate_ft_skill_1_b.mp3|一顾倾人城
+vo_kate_ft_skill_2.mp3|去吧，寻找属于你梦。
+vo_kate_ft_skill_2_b.mp3|我见到了你，还有那道光。
+vo_kate_jgpx_1.mp3|桂子月中落，天香云外飘。
+vo_kate_jgpx_1_b.mp3|自有秋香三万斛，何人更向月中看。
+vo_kate_xksy_1.mp3|没有人比我更懂时尚
+vo_kate_yxsm_1.mp3|让气味，为你记录片刻的美好
+vo_kate_yxsm_1_b.mp3|无尽的馥郁，诉说灵魂深处的记忆
+vo_kate_yxsm_skill_1.mp3|走吧，跟着那迷人的香气。
+vo_kate_yxsm_skill_1_b.mp3|追随你的内心
+vo_kate_yxsm_skill_2.mp3|我的配方，可是独一无二的
+vo_kate_yxsm_skill_2_b.mp3|光有天分，可是不够的

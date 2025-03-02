@@ -1,0 +1,8 @@
+vo_lighting_jsbt_1.mp3|呀哈，这可是独一无二的夏天！
+vo_lighting_jsbt_1_b.mp3|热情如阳光，激情如海浪！
+vo_lighting_jsbt_skill_1.mp3|让我向你展现夏日急速的浪漫
+vo_lighting_jsbt_skill_1_b.mp3|注意转弯，我的速度你可挡不住！
+vo_lighting_jsbt_skill_2.mp3|一起享受夏天的热情吧！
+vo_lighting_jsbt_skill_2_b.mp3|来感受海岸的气息
+vo_lighting_jsbt_skill_3.mp3|夏日咸鱼的滋味如何？
+vo_lighting_jsbt_skill_3_b.mp3|你也想戏水吗？

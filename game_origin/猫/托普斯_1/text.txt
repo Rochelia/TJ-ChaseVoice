@@ -1,0 +1,16 @@
+vo_topsy_bazq_1.mp3|命不由天，公理自在人心。
+vo_topsy_bazq_1_b.mp3|律法之威，岂容尔等轻视！
+vo_topsy_bazq_skill_1.mp3|善恶，辩是非。
+vo_topsy_bazq_skill_1_b.mp3|除恶扬善！
+vo_topsy_bazq_skill_2.mp3|律法不阙，乱则必治
+vo_topsy_bazq_skill_2_b.mp3|善恶之道，人心所向
+vo_topsy_bazq_skill_3.mp3|察言观色，辨其心智
+vo_topsy_bazq_skill_3_b.mp3|善恶，总在一念之间
+vo_topsy_hss_1.mp3|欢迎来到我的演出
+vo_topsy_hss_1_b.mp3|演出正式开始，千万别眨眼
+vo_topsy_hss_skill_1.mp3|眼见未必是真
+vo_topsy_hss_skill_1_b.mp3|真亦假时，假亦真。
+vo_topsy_hss_skill_2.mp3|如同泡沫，转瞬即逝
+vo_topsy_hss_skill_2_b.mp3|泡沫是最美的花火
+vo_topsy_hss_skill_3.mp3|编织属于你的美梦
+vo_topsy_hss_skill_3_b.mp3|以梦的名义捕获你

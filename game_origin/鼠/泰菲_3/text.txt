@@ -1,0 +1,14 @@
+vo_angelturffy_1.mp3|让我为你，照亮整片星空。
+vo_angelturffy_1_02.mp3|有你的星空，夜色不再漫长。
+vo_angelturffy_2.mp3|天使翅膀，抚平你的伤
+vo_angelturffy_3.mp3|星辰之力，让我守护你
+vo_turffy_szyd_apprea.mp3|时间的齿轮不停旋转
+vo_turffy_szyd_apprea_03.mp3|我们相遇在，美丽的时空尽头。
+vo_turffy_szyd_skill_1.mp3|神奇的饮料
+vo_turffy_szyd_skill_2.mp3|谁才是真正的我？
+vo_turffy_ys_1.mp3|新月初升，月神之力，庇护着万物生灵。
+vo_turffy_ys_1_b.mp3|天马在夜空飞驰，留下点点月光照亮黑夜。
+vo_turffy_ys_skill_1.mp3|月之守护
+vo_turffy_ys_skill_1_b.mp3|以月神之名守护你
+vo_turffy_ys_skill_2.mp3|月光羽翼，庇佑你
+vo_turffy_ys_skill_2_b.mp3|月神之力，击退黑暗

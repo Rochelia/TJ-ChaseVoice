@@ -1,0 +1,12 @@
+vo_munchkin_fxgz_1.mp3|小福星出场，福气迎春来
+vo_munchkin_fxgz_1_b.mp3|好运常伴，福满乾坤。
+vo_munchkin_fxgz_skill_1.mp3|鸿运当头！
+vo_munchkin_fxgz_skill_1_b.mp3|福气迎门！
+vo_munchkin_fxgz_skill_2.mp3|一马当先，福气到
+vo_munchkin_fxgz_skill_2_b.mp3|喜庆洋洋，贺春风
+vo_munchkin_yhjz_1.mp3|我可是本世纪最伟大的银河舰长！
+vo_munchkin_yhjz_1_b.mp3|宇宙、星空，是最美妙的景色
+vo_munchkin_yhjz_skill_1.mp3|快让开！
+vo_munchkin_yhjz_skill_1_b.mp3|出发！
+vo_munchkin_yhjz_skill_2.mp3|安全驾驶，牢记心中
+vo_munchkin_yhjz_skill_2_b.mp3|跟紧了，别掉队！

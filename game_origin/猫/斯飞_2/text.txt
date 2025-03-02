@@ -1,0 +1,6 @@
+vo_sifei_zws_1.mp3|万里隔关山，一心思汉月。
+vo_sifei_zws_1_b.mp3|浩然正气冲霄汉，风叱云咤也缠绵。
+vo_sifei_zws_skill_1.mp3|东风初送，望君珍重。
+vo_sifei_zws_skill_1_b.mp3|今日相逢会故交
+vo_sifei_zws_skill_2.mp3|众将听令！
+vo_sifei_zws_skill_2_b.mp3|破三军，夺帅旗！

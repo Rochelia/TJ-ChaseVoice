@@ -1,0 +1,6 @@
+vo_spiker_01.mp3|比赛开始！
+vo_spiker_02.mp3|红方得分
+vo_spiker_03.mp3|蓝方得分
+vo_spiker_04.mp3|红方就要获胜了！
+vo_spiker_05.mp3|蓝方就要获胜了！
+vo_spiker_06.mp3|天啊，球要爆了！

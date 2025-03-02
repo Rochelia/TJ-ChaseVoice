@@ -1,0 +1,6 @@
+vo_mike_wxxh_1.mp3|用一场热舞开始今天的邂逅吧
+vo_mike_wxxh_1_b.mp3|星光无限，热力四射！
+vo_mike_wxxh_skill_1.mp3|向我展现你们的热情吧！
+vo_mike_wxxh_skill_1_b.mp3|喊出我的名字吧！
+vo_mike_wxxh_skill_2.mp3|今天，也要活力慢慢哦~
+vo_mike_wxxh_skill_2_b.mp3|我们相遇的每一刻，都值得记录

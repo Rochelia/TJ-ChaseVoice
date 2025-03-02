@@ -1,0 +1,13 @@
+vo_peikesi_jitageshou_01.mp3|我，就是舞台上最耀眼的星
+vo_peikesi_jitageshou_01_b.mp3|我的节目我表演，我的舞台我主宰。
+vo_peikesi_jitageshou_02.mp3|聆听我的歌声吧！
+vo_peikesi_jitageshou_03.mp3|来自音乐的力量
+vo_peikesi_jitageshou_03_b.mp3|嘿！
+vo_peikesi_jitageshou_03_c.mp3|嘿嘿！
+vo_peikesi_jitageshou_03_d.mp3|嘿嘿嘿~
+vo_peikesi_xls_1.mp3|来吧，跟我一起喊：过年好！
+vo_peikesi_xls_1_b.mp3|好听吗？那就来首更喜庆的
+vo_peikesi_xls_skill_1.mp3|来一曲无人抗拒的赛马
+vo_peikesi_xls_skill_1_b.mp3|我可要开始啰
+vo_peikesi_xls_skill_2.mp3|好好享受，这可是辞旧迎新的好时候！
+vo_peikesi_xls_skill_2_b.mp3|咳咳，今年是什么年来着？

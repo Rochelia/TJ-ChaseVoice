@@ -1,0 +1,10 @@
+vo_buqi_glqkj_1.mp3|在橄榄球的赛场上，我，就是王者
+vo_buqi_glqkj_1_b.mp3|迎接自己的一万零一场胜利
+vo_buqi_glqkj_skill_1.mp3|跟着我，冲！
+vo_buqi_glqkj_skill_1_b.mp3|目标：对方球门
+vo_buqi_glqkj_skill_2.mp3|准备好迎接我的精准打击了吗？
+vo_buqi_glqkj_skill_2_b.mp3|看球！
+vo_buqi_glqkj_skill_3.mp3|我可是最佳球员
+vo_buqi_glqkj_skill_3_b.mp3|看我的，击中目标！
+vo_buqi_hws_1.mp3|想和我比？你还差了点。
+vo_buqi_hws_1_b.mp3|我就是剑道的化身

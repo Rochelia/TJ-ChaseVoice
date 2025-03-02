@@ -1,0 +1,6 @@
+vo_peikesi_khpd_1.mp3|今夜，是属于我们的狂欢派对
+vo_peikesi_khpd_1_02.mp3|是时候放纵一下了，谁准备好狂欢了？
+vo_peikesi_khpd_skill_1.mp3|尽情嗨起来！
+vo_peikesi_khpd_skill_1_02.mp3|跟上音乐的节奏
+vo_peikesi_khpd_skill_2.mp3|狂欢夜！
+vo_peikesi_khpd_skill_2_02.mp3|Wow，跳起来！

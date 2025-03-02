@@ -1,0 +1,6 @@
+vo_suri_ryzw_1.mp3|海洋之外的世界，会是什么样呢？
+vo_suri_ryzw_1_b.mp3|欢迎来到人鱼的海底世界
+vo_suri_ryzw_skill_1.mp3|让我们一起跳支舞，好不好？
+vo_suri_ryzw_skill_1_b.mp3|和着人鱼的歌声，迈动舞步吧
+vo_suri_ryzw_skill_2.mp3|来玩接抛球吧！
+vo_suri_ryzw_skill_2_b.mp3|可不要被水球砸到哦~

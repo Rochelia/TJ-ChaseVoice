@@ -1,0 +1,6 @@
+vo_munchkin_snlw_1.mp3|来者何人？报上名来。
+vo_munchkin_snlw_1_b.mp3|无名小卒，不值一提
+vo_munchkin_snlw_skill_1.mp3|凭你，也敢挑战本尊？
+vo_munchkin_snlw_skill_1_b.mp3|无敌，总是这么寂寞。
+vo_munchkin_snlw_skill_2.mp3|本尊不发威，真当我病猫
+vo_munchkin_snlw_skill_2_b.mp3|想走，本尊同意了吗？

@@ -1,0 +1,12 @@
+vo_mike_jyw_1.mp3|锦衣卫办事，通通回避！
+vo_mike_jyw_1_02.mp3|锦衣卫出手，就没有拿不到的东西。
+vo_mike_jyw_skill_1.mp3|小心了
+vo_mike_jyw_skill_1_02.mp3|小小伎俩
+vo_mike_jyw_skill_2.mp3|哪里跑！
+vo_mike_jyw_skill_2_02.mp3|等你很久了
+vo_mike_ltz_1.mp3|石激悬流雪满湾，五龙潜处野云闲。
+vo_mike_ltz_1_b.mp3|日落江湖白，潮来天地清。
+vo_mike_ltz_skill_1.mp3|龙腾仙云，变化万千
+vo_mike_ltz_skill_1_b.mp3|灵珠为契，万物臣服
+vo_mike_ltz_skill_2.mp3|白龙现真身！
+vo_mike_ltz_skill_2_b.mp3|江河翻涌，四海归一

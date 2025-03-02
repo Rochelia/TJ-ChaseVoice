@@ -1,0 +1,6 @@
+vo_shuangyue_qlcs_1.mp3|光华万丈，雀翎山河
+vo_shuangyue_qlcs_1_b.mp3|这芳华盛世，如你所求。
+vo_shuangyue_qlcs_skill_1.mp3|疾风流转，雀羽纷飞
+vo_shuangyue_qlcs_skill_1_b.mp3|回环的命运，此刻揭晓！
+vo_shuangyue_qlcs_skill_2.mp3|仙雀之灵，何以亵渎？
+vo_shuangyue_qlcs_skill_2_b.mp3|世事如烟，繁华成空

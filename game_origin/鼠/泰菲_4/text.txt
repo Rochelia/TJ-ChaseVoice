@@ -1,0 +1,16 @@
+vo_turffy_demon_01.mp3|美丽的月夜，我，来了。
+vo_turffy_demon_02.mp3|变变变
+vo_turffy_demon_03.mp3|跟我来
+vo_turffy_demon_04.mp3|哈哈，去吧
+vo_turffy_demon_xhm_1.mp3|哈哈哈哈，红色的帽子，我喜欢......
+vo_turffy_demon_xhm_1_02.mp3|森林里的花又开了，外婆一定很喜欢。
+vo_turffy_demon_xhm_2.mp3|我喜欢变化
+vo_turffy_demon_xhm_2_02.mp3|小红帽无敌！
+vo_turffy_demon_xhm_3.mp3|全都是我的！
+vo_turffy_demon_xhm_3_02.mp3|跟着小红帽
+vo_turffy_demon_xhm2_1.mp3|今天也是收获满满呢！
+vo_turffy_demon_xhm2_1_b.mp3|戴上我的小红帽出门咯！
+vo_turffy_demon_xhm2_skill_1.mp3|全都是我的！
+vo_turffy_demon_xhm2_skill_1_b.mp3|我全都要
+vo_turffy_demon_xhm2_skill_2.mp3|猜猜看哪一个是你的
+vo_turffy_demon_xhm2_skill_2_b.mp3|双倍快乐！

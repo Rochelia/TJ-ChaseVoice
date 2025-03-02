@@ -1,0 +1,17 @@
+vo_meathead_01.mp3|给我过来！
+vo_meathead_02.mp3|呜，鼠老弟，我错了。
+vo_meathead_03.mp3|呃，鼠老弟，别打我！
+vo_meathead_04.mp3|小老鼠，我不会放过你的
+vo_meathead_05.mp3|哼，你还挺厉害嘛
+vo_meathead_06.mp3|呵呵呵呵，小老鼠，过来单挑啊
+vo_meathead_07.mp3|小老鼠，想我了吗？
+vo_meathead_hgdx_1.mp3|红锅白锅我全都要
+vo_meathead_hgdx_1_b.mp3|火锅就是正义！
+vo_meathead_hgdx_skill_1.mp3|原汤化原食
+vo_meathead_hgdx_skill_1_b.mp3|是火锅调料的味道！
+vo_meathead_hgdx_skill_2.mp3|新鲜的食材，是好吃的秘诀。
+vo_meathead_hgdx_skill_2_b.mp3|通通下锅吧！
+vo_meathead_jidongdui_01.mp3|机动队，听我命令
+vo_meathead_jidongdui_01_b.mp3|前进，向最终目的地，进发!
+vo_meathead_jidongdui_02.mp3|呵，美味的调料
+vo_meathead_jidongdui_04.mp3|嘿嘿，饭盒的味道，让我着迷。

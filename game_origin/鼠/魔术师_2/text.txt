@@ -1,0 +1,6 @@
+vo_magician_jmsj_1.mp3|镜面世界，看似相同，却有着不同的自己。
+vo_magician_jmsj_1_b.mp3|虚实交错，真正的自我只有自己能够看清
+vo_magician_jmsj_skill_1.mp3|或是幻觉，又或是真实？
+vo_magician_jmsj_skill_1_b.mp3|一切尽在掌握之中
+vo_magician_jmsj_skill_2.mp3|探索内心真正的欲望
+vo_magician_jmsj_skill_2_b.mp3|是黑兔子还是白兔子？

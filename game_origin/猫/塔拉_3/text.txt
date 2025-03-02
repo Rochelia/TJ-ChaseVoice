@@ -1,0 +1,6 @@
+vo_tara_xbnw_1.mp3|犯我王国者，驱逐殆尽！
+vo_tara_xbnw_1_b.mp3|士兵们，为了王国的荣耀，冲锋！
+vo_tara_xbnw_skill_1.mp3|王国的威仪，不容置疑
+vo_tara_xbnw_skill_1_b.mp3|向你的女王行礼
+vo_tara_xbnw_skill_2.mp3|臣服吧，我的子民
+vo_tara_xbnw_skill_2_b.mp3|我的王国，由我自己守护！

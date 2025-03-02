@@ -1,0 +1,8 @@
+vo_buqi_cszs_1.mp3|中华醒狮，长盛不衰
+vo_buqi_cszs_1_b.mp3|狮舞长空，行运亨通！
+vo_buqi_cszs_skill_1.mp3|小爷的脚步可不是谁都能模仿
+vo_buqi_cszs_skill_1_b.mp3|区区狮王，轻松拿下
+vo_buqi_cszs_skill_2.mp3|鼓声不息，脚步不停
+vo_buqi_cszs_skill_2_b.mp3|最勇猛的狮子，从不停歇
+vo_buqi_cszs_skill_3.mp3|锣鼓喧天，金狮倒挂
+vo_buqi_cszs_skill_3_b.mp3|胜利的喜悦，是最好的头彩！

@@ -1,0 +1,16 @@
+vo_nibao_1.mp3|别管我，快去破坏墙缝！
+vo_nibao_2.mp3|奶酪已经压好了
+vo_nibao_jynh_1.mp3|It's show time!
+vo_nibao_jynh_1_b.mp3|面具也无法挡住我帅气的脸庞~
+vo_nibao_jynh_skill_1.mp3|蹦得越高，看得越远
+vo_nibao_jynh_skill_1_b.mp3|跟上我的节奏，尽情表演
+vo_nibao_jynh_skill_2.mp3|准备好和我一起拯救世界了吗？
+vo_nibao_jynh_skill_2_b.mp3|人多力量大！
+vo_nibao_qmfy_1.mp3|今夜，就让所有人为我欢呼
+vo_nibao_qmfy_1_b.mp3|回旋在高空的舞步才最刺激！
+vo_nibao_qmfy_skill_1.mp3|华丽的跳跃是与生俱来的天赋
+vo_nibao_qmfy_skill_1_b.mp3|我可是天上的主角
+vo_nibao_qmfy_skill_2.mp3|芜湖！一起加入今天的演出吧！
+vo_nibao_qmfy_skill_2_b.mp3|要不要试试高空飞钓
+vo_nibao_xlbl_1.mp3|有你在的地方，就有爱
+vo_nibao_xlbl_1_b.mp3|你就是我全部的愿望

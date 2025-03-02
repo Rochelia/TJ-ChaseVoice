@@ -1,0 +1,16 @@
+vo_suri_mftps_1.mp3|唯有爱与甜品不可辜负
+vo_suri_mftps_1_b.mp3|甜品，就是幸福的味道
+vo_suri_mftps_skill_1.mp3|无法抗拒的诱惑
+vo_suri_mftps_skill_1_b.mp3|魅力无人能挡
+vo_suri_mftps_skill_2.mp3|送你一块蛋糕
+vo_suri_mftps_skill_2_b.mp3|甜品就是力量！
+vo_suri_qwyz_1.mp3|绽放于心灵的舞蹈
+vo_suri_qwyz_1_b.mp3|精灵的舞蹈代表自由
+vo_suri_qwyz_skill_2.mp3|可以请你跳支舞吗？
+vo_suri_qwyz_skill_2_b.mp3|舞会开场时间
+vo_suri_qwyz_skill_3.mp3|充满幻象的音符变奏曲
+vo_suri_qwyz_skill_3_b.mp3|做代表自由的音符
+vo_suri_sxhx_1.mp3|火树银花合，星桥铁锁开。
+vo_suri_sxhx_1_b.mp3|灯树千光照，花焰七枝开。
+vo_suri_wdgz_1.mp3|我最喜欢软软的床垫啦！
+vo_suri_wdgz_1_b.mp3|我可不是娇气的小公主

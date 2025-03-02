@@ -1,0 +1,8 @@
+vo_topsy_sxx_1.mp3|想要一对我写的春联吗？
+vo_topsy_sxx_1_b.mp3|师父的过去？呃，我可不好奇……咳咳！
+vo_topsy_sxx_skill_1.mp3|去吧！另一个我！
+vo_topsy_sxx_skill_1_b.mp3|另一个我可以去学剪纸吗？
+vo_topsy_sxx_skill_2.mp3|在泡泡里过个春节怎么样？
+vo_topsy_sxx_skill_2_b.mp3|先在泡泡里待一会吧~
+vo_topsy_sxx_skill_3.mp3|哇！可别碰坏了我师父的字
+vo_topsy_sxx_skill_3_b.mp3|你也想学书法吗？来试试看？
