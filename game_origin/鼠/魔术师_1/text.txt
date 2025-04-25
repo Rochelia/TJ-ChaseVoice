@@ -1,3 +1,9 @@
+vo_jerry_magicain_wptg_1.mp3|我已就位，随时准备行动
+vo_jerry_magicain_wptg_1_b.mp3|目标，奶酪伯爵，开始吧！
+vo_jerry_magicain_wptg_skill_1.mp3|别担心，奶酪计划正常进行
+vo_jerry_magicain_wptg_skill_1_b.mp3|常人做不到，但我可以
+vo_jerry_magicain_wptg_skill_2.mp3|特工的秘密武器，你看清了吗？
+vo_jerry_magicain_wptg_skill_2_b.mp3|兔子可是特工的好伙伴，不是吗？
 vo_magician_01.mp3|猫隐身了,大家小心
 vo_magician_02.mp3|注意老鼠夹
 vo_magician_03.mp3|别动，我来为你治疗

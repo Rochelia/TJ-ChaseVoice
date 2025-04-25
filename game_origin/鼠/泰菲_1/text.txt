@@ -90,6 +90,8 @@ vo_turffy_demon_yxzw_skill_1.mp3|没有宝藏可以逃过我的眼睛！
 vo_turffy_demon_yxzw_skill_1_b.mp3|探索完毕，成就达成！
 vo_turffy_demon_yxzw_skill_2.mp3|来自骨灰级玩家的忠告~
 vo_turffy_demon_yxzw_skill_2_b.mp3|一发入魂！
+vo_turffy_demon_yxzw_skill_3.mp3|这可是平时见不到的隐藏款
+vo_turffy_demon_yxzw_skill_3_b.mp3|骨灰级玩家的专属道具~
 vo_turffy_dtc_xyzt_1.mp3|真相，尽在我的掌握之中~
 vo_turffy_dtc_xyzt_1_b.mp3|再完美的手法也会有缺陷。
 vo_turffy_dtc_xyzt_skill_1.mp3|猜猜看，哪一个是我？

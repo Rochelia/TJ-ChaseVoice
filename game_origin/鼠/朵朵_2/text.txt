@@ -4,3 +4,5 @@ vo_duoduo_feszg_skill_1.mp3|服从王后的指令
 vo_duoduo_feszg_skill_1_b.mp3|以王后权柄之名
 vo_duoduo_feszg_skill_2.mp3|抱歉，我不是故意伤到您的。
 vo_duoduo_feszg_skill_2_b.mp3|陶瓷的心，也能梦到蛋糕的甜美吗？
+vo_duoduo_jxnl_1.mp3|机械的心，才更好游走在危险边缘哦~
+vo_duoduo_jxnl_1_b.mp3|正义还是邪恶？

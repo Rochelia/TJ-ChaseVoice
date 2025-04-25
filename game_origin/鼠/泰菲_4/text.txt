@@ -8,9 +8,13 @@ vo_turffy_demon_xhm_2.mp3|我喜欢变化
 vo_turffy_demon_xhm_2_02.mp3|小红帽无敌！
 vo_turffy_demon_xhm_3.mp3|全都是我的！
 vo_turffy_demon_xhm_3_02.mp3|跟着小红帽
+vo_turffy_demon_xhm_skill_3.mp3|这可是小红帽的礼物
+vo_turffy_demon_xhm_skill_3_b.mp3|外婆也想要来一份吗？
 vo_turffy_demon_xhm2_1.mp3|今天也是收获满满呢！
 vo_turffy_demon_xhm2_1_b.mp3|戴上我的小红帽出门咯！
 vo_turffy_demon_xhm2_skill_1.mp3|全都是我的！
 vo_turffy_demon_xhm2_skill_1_b.mp3|我全都要
 vo_turffy_demon_xhm2_skill_2.mp3|猜猜看哪一个是你的
 vo_turffy_demon_xhm2_skill_2_b.mp3|双倍快乐！
+vo_turffy_demon_ylfbj_skill_3.mp3|臣服于伯爵大人吧，哇！
+vo_turffy_demon_ylfbj_skill_3_b.mp3|我的子民们，出动吧~
