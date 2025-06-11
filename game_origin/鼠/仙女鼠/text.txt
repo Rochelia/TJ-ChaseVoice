@@ -20,6 +20,12 @@ vo_fairy_19.mp3|猫大哥，放了我吧
 vo_fairy_20.mp3|小喵喵，你给我等着!
 vo_fairy_21.mp3|小老弟，我不怕你哟~
 vo_fairy_22.mp3|呵呵，你还挺厉害。
+vo_fairy_mhjm_1.mp3|孩子，想向你的教母索求何物？
+vo_fairy_mhjm_1_b.mp3|教母关心的从来不是对错......而是忠诚。
+vo_fairy_mhjm_skill_1.mp3|说说你的愿望吧
+vo_fairy_mhjm_skill_1_b.mp3|教母来实现你的愿望了
+vo_fairy_mhjm_skill_2.mp3|赐予你教母的权柄！
+vo_fairy_mhjm_skill_2_b.mp3|教母的爱，化作这些星星，伴你左右。
 vo_fairy_qhxy_1.mp3|愿白雪为你指引方向
 vo_fairy_qhxy_1_b.mp3|魔法，为我而生
 vo_fairy_tmsj_1.mp3|老去又逢新岁月，春来更有好花枝。

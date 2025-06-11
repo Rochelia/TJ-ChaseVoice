@@ -6,3 +6,9 @@ vo_sifei_shl_skill_1.mp3|目标确认
 vo_sifei_shl_skill_1_b.mp3|猎杀时刻！
 vo_sifei_shl_skill_2.mp3|潜行，只为一击必中！
 vo_sifei_shl_skill_2_b.mp3|听是风的声音
+vo_sifei_sshg_1.mp3|认识你自己，凡事勿过度，妄立誓则祸近。
+vo_sifei_sshg_1_b.mp3|我将光明带往人间，我即是唯一之预言。
+vo_sifei_sshg_skill_1.mp3|光伴我疾驰！
+vo_sifei_sshg_skill_1_b.mp3|我便是光明与力量的载体！
+vo_sifei_sshg_skill_2.mp3|月桂之箭会代我清除邪恶！
+vo_sifei_sshg_skill_2_b.mp3|预言早已昭示你们的结局……

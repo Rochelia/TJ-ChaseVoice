@@ -4,5 +4,11 @@ vo_kate_aysh_skill_1.mp3|爱的奥秘是什么？
 vo_kate_aysh_skill_1_b.mp3|我会找到答案
 vo_kate_aysh_skill_2.mp3|来守护我
 vo_kate_aysh_skill_2_b.mp3|自由奔跑吧！
+vo_kate_ytsn_1.mp3|聚光灯瞩目的这一刻，谁能不享受呢？
+vo_kate_ytsn_1_b.mp3|这座奖杯，属于陪伴我的每一位伙伴
+vo_kate_ytsn_skill_1.mp3|这张签名，可要保管好哟~
+vo_kate_ytsn_skill_1_b.mp3|想要一起合影吗？一，二，三！
+vo_kate_ytsn_skill_2.mp3|更多的阅读，更好的表演。
+vo_kate_ytsn_skill_2_b.mp3|此刻，我与书中的角色同呼吸、共命运！
 vo_kate_zazs_1.mp3|爱，似乎无处不在
 vo_kate_zazs_1_b.mp3|我所有的愿望就是你
