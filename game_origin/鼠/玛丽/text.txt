@@ -2,6 +2,12 @@ extra_1.wav|呵呵，好美的花朵
 extra_2.wav|你是王国最勇敢的玫瑰
 vo_mali_bylz_1.mp3|鸾扇斜分凤幄开，星桥横过鹊飞回。
 vo_mali_bylz_1_02.mp3|一道鹊桥横渺渺，千声玉佩过玲玲。
+vo_mali_fnjq_1.mp3|游轮、大海、阳光、沙滩……真是完美假期！
+vo_mali_fnjq_1_b.mp3|真烦恼，我到底该带哪件泳衣呢？
+vo_mali_fnjq_skill_1.mp3|这样好的假期，可别被打扰啦！
+vo_mali_fnjq_skill_1_b.mp3|哦~享受假期吧！
+vo_mali_fnjq_skill_2.mp3|感受到大海的气息了吗？
+vo_mali_fnjq_skill_2_b.mp3|游轮上的海风可真大……小心点哦！
 vo_mali_hongtaohuanghou_1.mp3|欲戴王冠，必承其重
 vo_mali_hongtaohuanghou_1_b.mp3|你只有努力奔跑，才能留在原地。
 vo_mali_hongtaohuanghou_2.mp3|感受到优雅的气息了吗？

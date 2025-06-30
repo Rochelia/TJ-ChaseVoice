@@ -1,3 +1,5 @@
+vo_jerry_magicain_jmsj_skill_3.mp3|这只兔子究竟是真实，抑或幻觉？
+vo_jerry_magicain_jmsj_skill_3_b.mp3|啊，镜子那边的世界，可不是能随意进入的。
 vo_magician_jmsj_1.mp3|镜面世界，看似相同，却有着不同的自己。
 vo_magician_jmsj_1_b.mp3|虚实交错，真正的自我只有自己能够看清
 vo_magician_jmsj_skill_1.mp3|或是幻觉，又或是真实？
