@@ -13,6 +13,12 @@ guide_turffy_12.mp3|对了，杰瑞，你的大表哥恰好住在附件，我们
 guide_turffy_13.mp3|杰瑞的大表哥，奶酪被汤姆藏起来了，可能会很难找。
 guide_turffy_14.mp3|哇，能侦查奶酪的机器鼠，杰瑞的大表哥，你的发明好厉害啊！
 guide_turffy_15.mp3|杰瑞的大表哥，老鼠洞都被奶酪渣堵上了，呜呜呜。我们...我们该怎么回去呢？
+vo_detective_tuffy_twxj_1.mp3|天上的星星也许藏着些新的知识哟~
+vo_detective_tuffy_twxj_1_b.mp3|快来观星台，看看我发现了什么！
+vo_detective_tuffy_twxj_skill_1.mp3|快看，看到那颗星星了吗？
+vo_detective_tuffy_twxj_skill_1_b.mp3|迷失方向了？北极星会为你引路的
+vo_detective_tuffy_twxj_skill_2.mp3|我的望远镜呢？
+vo_detective_tuffy_twxj_skill_2_b.mp3|这可是超新星爆发时的光芒哦~
 vo_jianke_tuffy_jcf_1.mp3|唐人街，我来咯！
 vo_jianke_tuffy_jcf_1_b.mp3|想看看我学的剪纸吗？
 vo_jianke_tuffy_jcf_skill_1.mp3|看我剪刀冲刺！
@@ -21,6 +27,12 @@ vo_jianke_tuffy_jcf_skill_2.mp3|看不到我？看不到我！
 vo_jianke_tuffy_jcf_skill_2_b.mp3|快一起躲起来！
 vo_jianke_tuffy_jcf_skill_3.mp3|可别小瞧我呦~
 vo_jianke_tuffy_jcf_skill_3_b.mp3|春节快乐哦！哈！
+vo_robintuffy_xxlq_1.mp3|嘿呦！龙骑出发！
+vo_robintuffy_xxlq_1_b.mp3|走吧呆呆龙！我们可要去遨游世界咯！
+vo_robintuffy_xxlq_skill_1.mp3|圆球龙骑士出击！
+vo_robintuffy_xxlq_skill_1_b.mp3|这可是属于罗宾汉的绝学！
+vo_robintuffy_xxlq_skill_2.mp3|顺着藤蔓往上爬，可以找到龙的巢穴吗？
+vo_robintuffy_xxlq_skill_2_b.mp3|酷酷藤蔓也是我的好朋友哦~
 vo_tuffy_jcf_1.mp3|师傅，师傅，我又饿了~
 vo_tuffy_jcf_1_b.mp3|过年是不是有很多好吃的呀？
 vo_tuffy_jcf_skill_1.mp3|咯吱咯吱，泰菲来咯！

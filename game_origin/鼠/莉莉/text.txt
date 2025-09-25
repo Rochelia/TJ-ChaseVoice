@@ -17,6 +17,12 @@ vo_cherie_jianke_zszg_skill_2.mp3|白昼，照亮黑夜
 vo_cherie_jianke_zszg_skill_2_b.mp3|极光，驱散阴霾
 vo_fencer_lily_fy_1.mp3|聆听九天之上的声音
 vo_fencer_lily_fy_1_b.mp3|你就是我要等的人吗?
+vo_lily_jianke_snzd_1.mp3|锁链能束缚我的双手，可绝不会困住黎明！
+vo_lily_jianke_snzd_1_b.mp3|烈火熄灭的灰烬里，会绽放新的鸢尾花。
+vo_lily_jianke_snzd_skill_1.mp3|圣火已在铠甲下燃烧……但我绝不畏惧。
+vo_lily_jianke_snzd_skill_1_b.mp3|我的旗帜将永远向阳，永不垂落。
+vo_lily_jianke_snzd_skill_2.mp3|若我倒下，就踩着我的盾牌继续冲锋！
+vo_lily_jianke_snzd_skill_2_b.mp3|这镣铐，将会锻造成新的旗帜。
 vo_lily_mjxh_1.mp3|你也想沉睡在这秘境之中吗？
 vo_lily_mjxh_1_b.mp3|枯朽秘境中的梦魇，就让我独自承受。
 vo_lily_mjxh_skill_1.mp3|丛林深处的风，可不是谁都能抵挡

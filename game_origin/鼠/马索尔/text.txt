@@ -61,6 +61,12 @@ vo_muscle_llsk_skill_1.mp3|圣龙之鳞，无处不在！
 vo_muscle_llsk_skill_1_b.mp3|守护我龙族荣耀，势在必行
 vo_muscle_llsk_skill_2.mp3|想试试被冰焰吞噬的滋味么？
 vo_muscle_llsk_skill_2_b.mp3|让你见识一下龙族勇士的拳头！
+vo_muscle_yzcs_1.mp3|宇宙超鼠已上线！准备好墨镜，我可是宇宙最亮的星！
+vo_muscle_yzcs_1_b.mp3|当最后一颗恒星熄灭时——我，将会成为新的光明！
+vo_muscle_yzcs_skill_1.mp3|超级速度启动！别担心，我会及时赶到的！
+vo_muscle_yzcs_skill_1_b.mp3|我可背负着全宇宙的希望，也不差多救你一个啦~
+vo_muscle_yzcs_skill_2.mp3|我的超级力量可不允许任何鼠的安危受到威胁！
+vo_muscle_yzcs_skill_2_b.mp3|藏在星云背后的坏家伙，感受彗星的冲撞吧！
 vo_skill_adult_bigbrother_1.mp3|你惹怒我了，小猫咪！
 vo_skill_adult_bigbrother_2.mp3|歇一会，等会来找你
 vo_skill_adult_bigbrother_3.mp3|我的拳头有点痒
