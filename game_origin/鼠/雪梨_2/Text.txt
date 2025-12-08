@@ -1,0 +1,8 @@
+vo_cherie_frjs_1.mp3|听，麦穗在风里哼着金黄色的歌谣呢~
+vo_cherie_frjs_1_b.mp3|凡我所行之地，泥土皆会醒来拥抱生命。
+vo_cherie_frjs_skill_1.mp3|去吧去吧，带着日光的吻落地生根吧！
+vo_cherie_frjs_skill_1_b.mp3|金穗代我捎去大地的祝福
+vo_cherie_frjs_skill_2.mp3|预兆丰收的雨水，可别错过咯！
+vo_cherie_frjs_skill_2_b.mp3|丰饶角里满盛的蜜露，也将泛起生命的涟漪~
+vo_cherie_frjs_skill_3.mp3|丰收的花束，与秋风一同前往远方
+vo_cherie_frjs_skill_3_b.mp3|收下德墨忒尔慷慨的赠予吧！

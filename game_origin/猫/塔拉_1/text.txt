@@ -9,6 +9,7 @@ vo_tara_dmd_skill_1.mp3|红缨猎猎，箭若流星
 vo_tara_dmd_skill_1_b.mp3|擂鼓，破阵！
 vo_tara_dmd_skill_2.mp3|一剑能挡百万军！
 vo_tara_dmd_skill_2_b.mp3|金冠压双鬓，巾帼披铁甲。
+vo_tara_dmd_skill_3.mp3|朝为佘艳女，暮作镇上兵。
 vo_tara_jyns_1.mp3|一切尽在我的掌握之中
 vo_tara_jyns_1_b.mp3|自信是成功的基石
 vo_tara_jynv_1.mp3|自信，才会更有魅力
@@ -18,6 +19,8 @@ vo_tara_qiangweinvjue_02.mp3|看我的圈套
 vo_tara_qiangweinvjue_02_b.mp3|束手就擒吧！
 vo_tara_qiangweinvjue_03.mp3|看我的鞭子
 vo_tara_qiangweinvjue_05.mp3|来和我较量吧
+vo_tara_qwnj_skill_3.mp3|蔷薇的刺，可不仅仅用来保护自己
+vo_tara_qwnj_skill_3_b.mp3|女爵的领地，容不得你放肆
 vo_tara_sgmxs_1.mp3|梦想总是要有的
 vo_tara_xhhy_1.mp3|我把思念化作星星
 vo_tara_xhhy_1_02.mp3|整片星空，都是你的模样
@@ -26,6 +29,8 @@ vo_tara_xhhy_2_02.mp3|别想逃走哦~
 vo_tara_xhhy_3.mp3|一起跳舞吧
 vo_tara_xhhy_3_02.mp3|接受我的邀请吧
 vo_tara_xhhy_4.mp3|来啊
+vo_tara_xhhy_skill_3.mp3|星海链接的痕迹，又是怎样的图景呢？
+vo_tara_xhhy_skill_3_b.mp3|可别拒绝我的邀请
 vo_tara_xhhy_v_1.mp3|我这里有一袋奶酪矿石，便宜卖给你，你想要吗？
 vo_tara_xhhy_v_2.mp3|真是一个美好的夜晚，我来为大家跳一支舞吧
 vo_tara_ygmz_1.mp3|猫和老鼠相爱，只是一场意外

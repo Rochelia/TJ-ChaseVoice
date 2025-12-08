@@ -2,6 +2,14 @@ vo_turffy_demon_01.mp3|美丽的月夜，我，来了。
 vo_turffy_demon_02.mp3|变变变
 vo_turffy_demon_03.mp3|跟我来
 vo_turffy_demon_04.mp3|哈哈，去吧
+vo_turffy_demon_ky_1.mp3|我会遵循白雪皇后的指令……任何指令。
+vo_turffy_demon_ky_1_b.mp3|好吵的心跳声！到底什么时候才能彻底安静！
+vo_turffy_demon_ky_skill_1.mp3|你也想一起被冰雪包裹吗？
+vo_turffy_demon_ky_skill_1_b.mp3|接稳！可别被冻僵哦~
+vo_turffy_demon_ky_skill_2.mp3|像不会化的冰块一样，硬邦邦的才有意思
+vo_turffy_demon_ky_skill_2_b.mp3|白雪皇后的规矩，你也要好好遵守！
+vo_turffy_demon_ky_skill_3.mp3|恶魔？不，这可是冰雪的礼物！
+vo_turffy_demon_ky_skill_3_b.mp3|永远都是冬天，永远都在下雪……想想就好玩！
 vo_turffy_demon_xhm_1.mp3|哈哈哈哈，红色的帽子，我喜欢......
 vo_turffy_demon_xhm_1_02.mp3|森林里的花又开了，外婆一定很喜欢。
 vo_turffy_demon_xhm_2.mp3|我喜欢变化

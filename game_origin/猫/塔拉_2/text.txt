@@ -1,2 +1,3 @@
 vo_tara_dmd_1.mp3|今日再会，且听我唱与诸位听——
 vo_tara_dmd_1_b.mp3|待我把戎装端整，持印重振三军！
+vo_tara_dmd_skill_3_b.mp3|

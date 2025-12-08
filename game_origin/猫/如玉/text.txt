@@ -6,8 +6,8 @@ vo_jade_5.mp3|小老弟，来单挑
 vo_jade_6.mp3|鼠老弟，别打我！
 vo_jade_7.mp3|鼠老弟，我错了
 vo_jade_qll_1.mp3|天神之贵者，莫贵于青龙，或曰天一，或曰太阴。
-vo_jade_qll_1_b.mp3|东方苍龙七宿，映照而来，行云布雨
-vo_jade_qll_skill_1.mp3|濯濯佳声，唯天之仰
+vo_jade_qll_1_b.mp3|东方苍龙七宿，应召而来，行云布雨
+vo_jade_qll_skill_1.mp3|擢擢嘉生，惟天之养。
 vo_jade_qll_skill_1_b.mp3|青龙在天！
 vo_jade_qll_skill_2.mp3|愿下雷霆之诏，分𠡠山川之神。
 vo_jade_qll_skill_2_b.mp3|吾为天地司仪！
