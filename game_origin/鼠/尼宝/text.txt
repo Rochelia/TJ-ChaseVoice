@@ -1,5 +1,11 @@
 vo_nibao_1.mp3|别管我，快去破坏墙缝！
 vo_nibao_2.mp3|奶酪已经压好了
+vo_nibao_bscd_1.mp3|冰钓，只需要充足的耐心与毅力，再加上一点小小的运气
+vo_nibao_bscd_1_b.mp3|嘘——那条游过的影子，可逃不过成为我的猎物。
+vo_nibao_bscd_skill_1.mp3|钓鱼可是项兼具力量与技巧的运动
+vo_nibao_bscd_skill_1_b.mp3|寒风影响不了我，垂钓者的毅力无与伦比~
+vo_nibao_bscd_skill_2.mp3|谁说钓鱼钓上来的一定是鱼呢？
+vo_nibao_bscd_skill_2_b.mp3|好好看着，这可是高级的鱼竿使用技巧！
 vo_nibao_jynh_1.mp3|It's show time!
 vo_nibao_jynh_1_b.mp3|面具也无法挡住我帅气的脸庞~
 vo_nibao_jynh_skill_1.mp3|蹦得越高，看得越远

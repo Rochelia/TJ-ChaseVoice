@@ -5,6 +5,14 @@ vo_toots_04.mp3|小老鼠，我不会放过你的
 vo_toots_05.mp3|哼，你还挺厉害
 vo_toots_06.mp3|小老鼠，来单挑呀
 vo_toots_07.mp3|小老鼠，想我了吗？
+vo_toots_bxhh_1.mp3|臣服于我吧，你们呼出的白雾是最后警告
+vo_toots_bxhh_1_b.mp3|凯伊，想要听听冰刺与霜雪共奏的摇篮曲吗？
+vo_toots_bxhh_skill_1.mp3|听到了吗？冰雪在喜悦地呼啸……
+vo_toots_bxhh_skill_1_b.mp3|安静！我的国度不允许出现第二道声音！
+vo_toots_bxhh_skill_2.mp3|我的触碰，即意味着永眠……
+vo_toots_bxhh_skill_2_b.mp3|冰雪绽放的瞬间，雪宫又将迎来一位傀儡~
+vo_toots_bxhh_skill_3.mp3|足以席卷天地的冰雪……正在我的裙摆中小憩。
+vo_toots_bxhh_skill_3_b.mp3|旋转吧！冰晶绽放的瞬间，正是故事终结的时刻！
 vo_toots_huajia_01.mp3|今天，成为你最美的新娘
 vo_toots_huajia_01_b.mp3|披上美丽的嫁衣，我将会收获幸福。
 vo_toots_huajia_02.mp3|讨厌啦~

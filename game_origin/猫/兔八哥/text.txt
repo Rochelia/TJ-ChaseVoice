@@ -3,3 +3,9 @@ vo_bugsbunny_2.mp3|鼠老弟，别打我！
 vo_bugsbunny_3.mp3|鼠老弟，我错了
 vo_bugsbunny_4.mp3|发生什么事了，伙计？
 vo_bugsbunny_5.mp3|你知道这意味着宣战
+vo_bugsbunny_jyfy_1.mp3|不对伙计，你弄错了，我的编号是3.5，因为我今年才三岁半
+vo_bugsbunny_jyfy_1_b.mp3|我妈妈早就说过我会有今天……天哪怎么回事老兄？你把我锁在外面了？
+vo_bugsbunny_jyfy_skill_1.mp3|嘿！有囚犯越狱了！快去追快去追！他从北边翻墙跑啦！
+vo_bugsbunny_jyfy_skill_1_b.mp3|你们好呀！狱警先生们，很高兴认识你们~
+vo_bugsbunny_jyfy_skill_2.mp3|是来救你出去的……拿去，照着胡萝卜的位置去找出路，保证没错~
+vo_bugsbunny_jyfy_skill_2_b.mp3|顽固不化的捣乱鬼？我吗？这喊的是我吗？

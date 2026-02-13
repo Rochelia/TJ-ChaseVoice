@@ -25,6 +25,14 @@ vo_galore_nvtuan_02.mp3|看看我的魅力
 vo_galore_nvtuan_03.mp3|快回到我身边
 vo_galore_nvtuan_04.mp3|倾情飞扬
 vo_galore_nvtuan_04_b.mp3|就是音符的魅力
+vo_galore_sz_1.mp3|奉敕司鞍辔，天厩点云骢。
+vo_galore_sz_1_b.mp3|尚乘局司制在此，且看天马佩新装。
+vo_galore_sz_skill_1.mp3|朱唇一点桃花殷，可当缚尔神魂
+vo_galore_sz_skill_1_b.mp3|莫道秋波横，绿鬓红唇桃李花。
+vo_galore_sz_skill_2.mp3|霓裳舞散处，余香犹绕梁。
+vo_galore_sz_skill_2_b.mp3|天香夜染衣，何必瑶台觅？
+vo_galore_sz_skill_3.mp3|十指纤纤玉笋红，雁行斜过翠云中。
+vo_galore_sz_skill_3_b.mp3|纤甲染能丹，嫣香簇作团。
 vo_galore_xggz_1.mp3|故乡的雪化了吗？
 vo_galore_xggz_1_b.mp3|想和我一起打雪仗吗？
 vo_galore_xggz_skill_1.mp3|用爱融化你冰封的心

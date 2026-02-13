@@ -24,3 +24,5 @@ vo_lighting_kungfuking_02.mp3|敌不动，我不动
 vo_lighting_kungfuking_02_b.mp3|敌欲动，我先动
 vo_lighting_kungfuking_03.mp3|闪现！
 vo_lighting_kungfuking_skill_1.mp3|试试我的功夫咸鱼
+vo_lightning_scfy_1.mp3|尚乘奉御，掌率习驭，掌闲、驾士及秣饲之法。
+vo_lightning_scfy_1_b.mp3|新铸官马铜牌千面，皆赞尚乘奉御监，妙哉！

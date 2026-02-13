@@ -1,3 +1,9 @@
+vo_moon_sy_1.mp3|系得药香七宝绦，能安御马万千槽。
+vo_moon_sy_1_b.mp3|尚乘局司苑在此，且看百草饲天驹~
+vo_moon_sy_skill_1.mp3|踏青骢，越金埒，飒沓流星！
+vo_moon_sy_skill_1_b.mp3|疾如商风卷白蒿，却带长安牡丹娇。
+vo_moon_sy_skill_2.mp3|袖中纳百草，苜蓿饲龙驹。
+vo_moon_sy_skill_2_b.mp3|暂借乾坤避风雨，本草渡劫波。
 vo_shuangyue_qlcs_1.mp3|光华万丈，雀翎山河
 vo_shuangyue_qlcs_1_b.mp3|这芳华盛世，如你所求。
 vo_shuangyue_qlcs_skill_1.mp3|疾风流转，雀羽纷飞
