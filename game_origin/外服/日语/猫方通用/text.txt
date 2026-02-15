@@ -1,0 +1,7 @@
+vo_cat_m_tm_01.mp3|かなかやるなあ。
+vo_cat_m_tm_02.mp3|ズミちゃん、いい子にしてた?
+vo_cat_m_tm_03.mp3|ズミちゃん、許さないわよ。
+vo_cat_m_tm_04.mp3|っちよ
+vo_cat_m_tm_05.mp3|ズミちゃん、一対一で勝負よ。
+vo_cat_m_tm_06.mp3|ズミちゃん、ぶたないで
+vo_cat_m_tm_07.mp3|ズミちゃん、私が悪かったの。

@@ -1,0 +1,9 @@
+vo_lightning_1.mp3|Madame, Tom is a bumbling fool. Let me deal with those troublesome mice.
+vo_lightning_2.mp3|I am Lightning, the champion mouse catcher. Tell you what, why don't we have a little competition? If you lose, you have to leave and never come back.
+vo_lightning_3.mp3|Then it's settled. It's lightning's time to shine. Now to beat Tom and chase away those mice.
+vo_lightning_4.mp3|Ugh, impossible! You just got lucky, Tom!
+vo_lightning_5.mp3|Celebrating early, are we? Jerry's got friends, you know. They'll come for him, and you. Don't come crying to me after they beat you.
+vo_lightning_6.mp3|I just caught a mouse. You lost your mouse to Tuffy, didn't you, Tom?
+vo_lightning_7.mp3|Impossible! My lady, Tom must have cheated!
+vo_lightning_8.mp3|Oh, madame, please give me another chance.
+vo_lightning_9.mp3|Oh, I underestimated Tom.

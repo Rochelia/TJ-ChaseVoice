@@ -1,0 +1,15 @@
+vo_hostess_01.mp3|Tom, you'll have to have a competition with Lightning. I want to see which of you is the better cat.
+vo_hostess_02.mp3|Oh! Tom, Lightning, the mice are here again!
+vo_hostess_03.mp3|The race is on, boys. Do your best.
+vo_hostess_04.mp3|Wow, Tom actually caught a mouse.
+vo_hostess_05.mp3|Good job, Tom. Now, get rid of it with the rocket.
+vo_hostess_06.mp3|Oh dear, Tom has already caught two mice, lightning.
+vo_hostess_07.mp3|Lightning, this time Tom's the winner.
+vo_hostess_08.mp3|Well, you lost, Lightning. You'd better hit the road.
+vo_hostess_09.mp3|It would seem that I was right. You're the best, Tom.
+vo_hostess_10.mp3|Ah! Tom, there's a mouse here. Hurry, catch it.
+vo_hostess_11.mp3|Tom, you lost the mouse again!
+vo_hostess_12.mp3|I just cleaned this room. Darn it!
+vo_hostess_13.mp3|I'll teach you a lesson.
+vo_hostess_14.mp3|Useless! Looks like I'll have to deal with you myself.
+vo_hostess_15.mp3|Cat out! All of you!

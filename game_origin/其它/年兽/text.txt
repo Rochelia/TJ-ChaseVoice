@@ -1,0 +1,13 @@
+vo_skill_nianshou_1.mp3|给你们一点小小的惩罚
+vo_skill_nianshou_2.mp3|你们人太多了，这不公平！
+vo_skill_nianshou_3.mp3|呵呵，看看谁的衣服被点燃了？
+vo_skill_nianshou_4.mp3|我生气了，我要将你们全部消灭。
+vo_skill_nianshou_5.mp3|跳舞吧，哈哈哈哈
+vo_skill_nianshou_6.mp3|不要乱丢垃圾
+vo_skill_nianshou_7.mp3|左右横跳，开始！
+vo_skill_nianshou_8.mp3|讨厌，离我远点儿！
+vo_skill_nianshou_9.mp3|明年我会回来的
+vo_skill_nianshou_10.mp3|开始下一轮
+vo_skill_nianshou_11.mp3|嘿嘿，你怎么倒下了，小不点儿？
+vo_skill_nianshou_12.mp3|这就失败了？
+vo_skill_nianshou_13.mp3|没时间了，不陪你们玩了

@@ -1,0 +1,60 @@
+vo_broadcast_f_01.mp3|점프 버튼을 눌러 점프하세요.
+vo_broadcast_f_02.mp3|점프 버튼을 길게 눌러서 높이 점프하세요.
+vo_broadcast_f_03.mp3|움직이면서 점프 버튼을 누르세요.
+vo_broadcast_f_04.mp3|버튼을 눌러 취지를 옮기세요.
+vo_broadcast_f_05.mp3|치즈를 지구봉 앞에 놓으세요.
+vo_broadcast_f_06.mp3|터치하여 체질을 밀어 넣으세요.
+vo_broadcast_f_07.mp3|스킬 포인트를 사용하여 스킬을 업그레이드하세요.
+vo_broadcast_f_08.mp3|조작 버튼을 눌러 방문을 여세요.
+vo_broadcast_f_09.mp3|점프 버튼을 길게 눌러 피아노 위로 점프하세요.
+vo_broadcast_f_10.mp3|쇠망치로 톰을 공격하세요.
+vo_broadcast_f_11.mp3|컨트롤러를 터치하세요.
+vo_broadcast_f_12.mp3|EXP 케이크까지 이동한 뒤 터치하여 획득하세요.
+vo_broadcast_f_13.mp3|문까지 이동한 뒤 터치하여 구멍에서 나가세요.
+vo_broadcast_f_14.mp3|가까이 가서 치즈를 옮기세요.
+vo_broadcast_f_15.mp3|골프공으로 톰을 기절시키세요.
+vo_broadcast_f_16.mp3|터피를 구출하세요.
+vo_broadcast_f_17.mp3|아이템을 주우세요.
+vo_broadcast_f_18.mp3|벽템에 아이템을 던져 데미지를 해주세요.
+vo_broadcast_f_19.mp3|벽 구멍에 접근한 뒤 구멍 탈출을 터치하여 도망가세요.
+vo_broadcast_f_20.mp3|공격 버튼을 눌러 쥐를 공격하세요.
+vo_broadcast_f_21.mp3|다시 공격해서 쥐를 기절시키세요.
+vo_broadcast_f_22.mp3|조작 버튼을 눌러서 쥐를 잡으세요.
+vo_broadcast_f_23.mp3|가까이 가서 쥐를 로켓에 묶으세요.
+vo_broadcast_f_24.mp3|핸드건으로 터피를 공격하세요!
+vo_broadcast_f_25.mp3|터피를 잡으세요.
+vo_broadcast_f_26.mp3|아군이 사용금지 설정 중입니다.
+vo_broadcast_f_27.mp3|상대방이 사용 금지 설정 중입니다.
+vo_broadcast_f_28.mp3|아군이 캐릭터를 고르고 있습니다.
+vo_broadcast_f_29.mp3|상대방이 캐릭터를 고르고 있습니다.
+vo_broadcast_f_30.mp3|사용 금지할 캐릭터를 고르세요.
+vo_broadcast_f_31.mp3|사용할 캐릭터를 고르세요.
+vo_broadcast_f_32.mp3|마지막 준비 단계입니다.
+vo_broadcast_f_33.mp3|아군이 체질을 옮기고 있습니다.
+vo_broadcast_f_34.mp3|아군이 치즈 한 개를 옮겼습니다.
+vo_broadcast_f_35.mp3|아군이 치즈 2개를 옮겼습니다.
+vo_broadcast_f_36.mp3|아군이 치즈 3개를 옮겼습니다.
+vo_broadcast_f_37.mp3|아군이 치즈 4개를 옮겼습니다.
+vo_broadcast_f_38.mp3|아군이 치즈 다섯 개를 옮겼습니다.
+vo_broadcast_f_39.mp3|저기 치즈 다섯 개를 옮겼습니다.
+vo_broadcast_f_40.mp3|적이 발사되었습니다.
+vo_broadcast_f_41.mp3|적이 로켓에 묶였습니다.
+vo_stage_cat_01.mp3|적 로봇지가 생성되었습니다.
+vo_stage_cat_02.mp3|적 G가 생성되었습니다.
+vo_stage_cat_03.mp3|적이 체질을 옮기고 있습니다.
+vo_stage_cat_04.mp3|적이 치즈 한 개를 옮겼습니다.
+vo_stage_cat_05.mp3|적이 치즈 두 개를 옮겼습니다.
+vo_stage_cat_06.mp3|적이 치즈 3개를 옮겼습니다.
+vo_stage_cat_07.mp3|저기 치즈 4개를 옮겼습니다.
+vo_stage_cat_08.mp3|벽 틈이 생성되었습니다. 적이 도망가는 것을 막으세요.
+vo_stage_cat_09.mp3|적 쥐가 구출되었습니다.
+vo_stage_cat_10.mp3|적 쥐가 발사되었습니다.
+vo_stage_mouse_01.mp3|저 고양이가 출연했습니다.
+vo_stage_mouse_02.mp3|가서 취지를 옮기세요.
+vo_stage_mouse_03.mp3|티몬이 치즈 밀기를 완료했습니다.
+vo_stage_mouse_04.mp3|벽 틈이 생성되었습니다.
+vo_stage_mouse_05.mp3|팀원이 붙잡혔습니다.
+vo_stage_mouse_06.mp3|팀원이 로켓에 묶였습니다.
+vo_stage_mouse_07.mp3|팀원이 구출되었습니다.
+vo_stage_mouse_08.mp3|티몬이 발사되었습니다.
+vo_stage_welcome.mp3|톰과 제리, 첼스에 오신 것을 환영합니다.

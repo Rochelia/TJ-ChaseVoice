@@ -1,0 +1,42 @@
+vo_broadcast_f_01.mp3|Tap the jump button to jump.
+vo_broadcast_f_02.mp3|Tap and hold the jump button to jump higher.
+vo_broadcast_f_03.mp3|Tap the jump button when moving.
+vo_broadcast_f_04.mp3|Tap to pick up the cheese.
+vo_broadcast_f_05.mp3|Drop the cheese by the mouse hole.
+vo_broadcast_f_06.mp3|Push the cheese with all you've got.
+vo_broadcast_f_07.mp3|Use skill points to upgrade skills.
+vo_broadcast_f_08.mp3|Tap the action button to open the door.
+vo_broadcast_f_09.mp3|Tap and hold the jump button to jump onto the piano.
+vo_broadcast_f_10.mp3|Attack Tom with the hammer.
+vo_broadcast_f_11.mp3|Tap your controller.
+vo_broadcast_f_12.mp3|Get close to the EXP cake and tap to pick it up.
+vo_broadcast_f_13.mp3|Stand by the door and tap to head out.
+vo_broadcast_f_14.mp3|Get closer to pick up the cheese.
+vo_broadcast_f_15.mp3|Use the golf ball to stun Tom.
+vo_broadcast_f_16.mp3|Rescue Tuffy.
+vo_broadcast_f_17.mp3|Pick up an item.
+vo_broadcast_f_18.mp3|Throw the item to damage the wall.
+vo_broadcast_f_19.mp3|Tap Escape when near the crack to get away.
+vo_broadcast_f_20.mp3|Tap to attack the mouse.
+vo_broadcast_f_21.mp3|Attack again to knock out the mouse.
+vo_broadcast_f_22.mp3|Tap to catch the mouse.
+vo_broadcast_f_23.mp3|Get closer and tie the mouse to the rocket.
+vo_broadcast_f_24.mp3|Use the mouse grabber to attack Tuffy.
+vo_broadcast_f_25.mp3|Catch Tuffy.
+vo_broadcast_f_28.mp3|Teammate is picking.
+vo_broadcast_f_29.mp3|Opponent is picking.
+vo_broadcast_f_30.mp3|Ban a character.
+vo_broadcast_f_31.mp3|Pick a character.
+vo_broadcast_f_32.mp3|Wait for the others to get ready.
+vo_broadcast_f_33.mp3|We picked up some cheese.
+vo_broadcast_f_34.mp3|We've pushed through a wedge of cheese.
+vo_broadcast_f_35.mp3|We've pushed through two wedges of cheese.
+vo_broadcast_f_36.mp3|We've pushed through three wedges of cheese.
+vo_broadcast_f_37.mp3|We push through four wedges of cheese.
+vo_broadcast_f_38.mp3|We pushed through five wedges of cheese.
+vo_broadcast_f_39.mp3|The mice have pushed through five wedges of cheese.
+vo_broadcast_f_40.mp3|A mouse has been rescued.
+vo_broadcast_f_41.mp3|A mouse has been tied to a rocket.
+vo_broadcast_f_42.mp3|Bye-bye, mouse.
+vo_broadcast_f_43.mp3|We have lift off.
+vo_broadcast_f_44.mp3|Blast off.

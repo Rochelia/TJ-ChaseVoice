@@ -1,0 +1,7 @@
+vo_cat_m_tm_01.mp3|음, 제법인데?
+vo_cat_m_tm_02.mp3|쥐야, 내가 보고 싶었어?
+vo_cat_m_tm_03.mp3|안 놔줄꺼다 쥐야
+vo_cat_m_tm_04.mp3|ー、入りるわバーラ。
+vo_cat_m_tm_05.mp3|쥐야, 1대1 승부다!
+vo_cat_m_tm_06.mp3|쥐야, 때리지 말라고!
+vo_cat_m_tm_07.mp3|쥐야, 내가 잘못했어.

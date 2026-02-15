@@ -1,0 +1,15 @@
+vo_hostess_01.mp3|톰, 라이트닝과 대결하도록 해. 누가 최고의 고양이인지 한번 보자꾸나?
+vo_hostess_02.mp3|여기 쥐들이 떠나!
+vo_hostess_03.mp3|이제 시작이야! 톰, 라이트닝, 모두 최선을 다하렴!
+vo_hostess_04.mp3|처음이 쥐를 잡다니!
+vo_hostess_05.mp3|잘했어, 톰. 어서 로켓으로 쥐를 발사해버려.
+vo_hostess_06.mp3|저런, 라이트닝? 톰은 이미 쥐를 두 마리나 발사시켰다고.
+vo_hostess_07.mp3|라이트닝, 이번에는 터미 이겼어.
+vo_hostess_08.mp3|라이트닝, 이번에는 네가 졌으니 떠나줘야겠는걸?
+vo_hostess_09.mp3|톰, 역시 내가 제대로 봤구나. 넌 최고의 고양이야.
+vo_hostess_10.mp3|여기 쥐가 떠있어! 어서 잡아!
+vo_hostess_11.mp3|톰, 또 쥐를 놓쳐버렸잖아!
+vo_hostess_12.mp3|또 어지럽히다니 세상에
+vo_hostess_13.mp3|하! 번때를 보여주지!
+vo_hostess_14.mp3|이런 쓸모없는 것 같으니라고! 내가 직접 나서야겠네?
+vo_hostess_15.mp3|전부 나가버려!

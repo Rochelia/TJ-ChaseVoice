@@ -1,0 +1,18 @@
+vo_bigbrother_01.mp3|Hey there, fellas, I'm here.
+vo_bigbrother_02.mp3|That Tom sure one troublesome cat. Come with me, let's go teach him a lesson.
+vo_bigbrother_03.mp3|Never fear, Cousin Jerry. I came prepared. These four robot mice here will help us find out where the cheese is hidden.
+vo_bigbrother_04.mp3|Now, go over there and use that controller to guide them.
+vo_bigbrother_05.mp3|Wow. Congratulations, Jerry. What you had there is an EXP cake. It'll give you EXP. Quick, pick it up.
+vo_bigbrother_06.mp3|There will be three EXP cakes on the map while the robot mice are out scouting. Whenever you see one, make sure to pick it up.
+vo_bigbrother_07.mp3|Good job, kid. You found a wedge of cheese. Your robot mouse's job is done. It's time to switch back.
+vo_bigbrother_08.mp3|I'll stay here and keep an eye out. Tuffy, Robin Hood, and Pirate will be going out there with you to lend a hand. Commence Operation Cheese.
+vo_bigbrother_09.mp3|You're doing great. Also, Robin Hood just brought back his share of the cheese.
+vo_bigbrother_10.mp3|Keep it up. At this pace, Operation Cheese will be a great success in no time.
+vo_bigbrother_11.mp3|Oh, no. Tom caught Tuffy. Jerry, you better go save him.
+vo_bigbrother_12.mp3|Take a deep breath, Jerry, and do exactly as I say. Now, move over to the rocket and get Tuffy down from there before that thing takes off.
+vo_bigbrother_13.mp3|Don't panic, Jerry. See that golf ball? Pick it up and throw it in his face.
+vo_bigbrother_14.mp3|Tom stunned. Jerry, now go save Tuffy. Let Robin Hood and Pirate handle Tom.
+vo_bigbrother_15.mp3|Robin Hood just pushed through the last piece of cheese. Everybody get out of there.
+vo_bigbrother_16.mp3|Huh, I hadn't thought of that. But never fear, there's a crack in the wall over there. If you all pitch in, you should be able to make a hole big enough to escape through.
+vo_bigbrother_17.mp3|Tom's back. Jerry, keep working on the wall with Tuffy. Let Robin Hood and Pirate keep him distracted.
+vo_bigbrother_18.mp3|Jerry just broke through the wall. Everybody escape, now!

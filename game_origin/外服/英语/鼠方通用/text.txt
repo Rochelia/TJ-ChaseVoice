@@ -1,0 +1,35 @@
+vo_mouse_m_01.mp3|The cat's invisible.
+vo_mouse_m_02.mp3|Watch out for mousetraps.
+vo_mouse_m_03.mp3|I'll heal you.
+vo_mouse_m_04.mp3|Goodbye, friends.
+vo_mouse_m_05.mp3|Can somebody heal me?
+vo_mouse_m_06.mp3|I'm lighting the firecrackers.
+vo_mouse_m_07.mp3|Watch out for the firecrackers!
+vo_mouse_m_08.mp3|I can break free.
+vo_mouse_m_09.mp3|Use your items, everyone.
+vo_mouse_m_10.mp3|Restore your health.
+vo_mouse_m_11.mp3|Here, kitty, kitty.
+vo_mouse_m_12.mp3|Please, stop chasing me.
+vo_mouse_m_13.mp3|The cat is on my tail!
+vo_mouse_m_14.mp3|Hold on! We can do this!
+vo_mouse_m_15.mp3|Get the cheese!
+vo_mouse_m_16.mp3|Save me!
+vo_mouse_m_17.mp3|Hold on. We're on our way.
+vo_mouse_m_18.mp3|Keep hitting the wall!
+vo_mouse_m_19.mp3|Keep an eye on the timer.
+vo_mouse_m_21.mp3|Wait for me!
+vo_mouse_m_22.mp3|I'm already a goner.
+vo_mouse_m_23.mp3|Check the mini-map.
+vo_mouse_m_24.mp3|I'm ready.
+vo_mouse_m_25.mp3|I'll go get the cheese.
+vo_mouse_m_26.mp3|Thanks.
+vo_mouse_m_27.mp3|Nice one.
+vo_mouse_m_28.mp3|Come chase me if you dare.
+vo_mouse_m_29.mp3|Please forgive me, Cat.
+vo_mouse_m_30.mp3|Leave me alone!
+vo_mouse_m_31.mp3|Just you wait, kitty.
+vo_mouse_m_32.mp3|Not bad. You're pretty good.
+vo_mouse_m_33.mp3|I'm not afraid of you.
+vo_mouse_m_34.mp3|Let's group up!
+vo_mouse_m_35.mp3|Help me!
+vo_mouse_m_36.mp3|Retreat.

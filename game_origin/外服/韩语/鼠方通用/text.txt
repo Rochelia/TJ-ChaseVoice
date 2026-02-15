@@ -1,0 +1,36 @@
+vo_mouse_m_01.mp3|고양이가 숨어있어! 조심해!
+vo_mouse_m_02.mp3|쥐더 조심해!
+vo_mouse_m_03.mp3|움직이지 마! 금방 치유해줄게!
+vo_mouse_m_04.mp3|잘 있어, 친구.
+vo_mouse_m_05.mp3|ルエーザー
+vo_mouse_m_06.mp3|폭죽 사용할 테니까 조심해!
+vo_mouse_m_07.mp3|폭죽 조심해!
+vo_mouse_m_08.mp3|혼자서 벗어날 수 있어.
+vo_mouse_m_09.mp3|아이템을 자주 사용해!
+vo_mouse_m_10.mp3|HP 회복해!
+vo_mouse_m_11.mp3|여기야, 야옹아.
+vo_mouse_m_12.mp3|헤헤헤, 왜 자꾸 나만 쫓는 거야?
+vo_mouse_m_13.mp3|내 주변에 있어!
+vo_mouse_m_14.mp3|버텨! 이길 수 있어!
+vo_mouse_m_15.mp3|서둘러! 같이 치즈를 옮기자!
+vo_mouse_m_16.mp3|빌려줘, 친구들!
+vo_mouse_m_17.mp3|버텨! 구하러 갈게!
+vo_mouse_m_18.mp3|구멍을 뚫자!
+vo_mouse_m_19.mp3|카운트다운 주의해!
+vo_mouse_m_20.mp3|마이크를 켜줄래?
+vo_mouse_m_21.mp3|기다려. 곧 갈게.
+vo_mouse_m_22.mp3|난 틀렸어. 먼저 갈게.
+vo_mouse_m_23.mp3|미니맵 확인하는 거 잊지마!
+vo_mouse_m_24.mp3|준비됐어?
+vo_mouse_m_25.mp3|부탁해. 취지는 내가 옮길게.
+vo_mouse_m_26.mp3|고마워.
+vo_mouse_m_27.mp3|훌륭해!
+vo_mouse_m_28.mp3|야옹아, 나 잡아봐라!
+vo_mouse_m_29.mp3|고양이님 제가 잘
+vo_mouse_m_30.mp3|고양이님 살려주세요!
+vo_mouse_m_31.mp3|야옹이 너 딱 기다려!
+vo_mouse_m_32.mp3|오, 제법인데?
+vo_mouse_m_33.mp3|야옹아, 하나도 안 무섭지롱!
+vo_mouse_m_34.mp3|어서 모이자!
+vo_mouse_m_35.mp3|살려줘!
+vo_mouse_m_36.mp3|후퇴하자!

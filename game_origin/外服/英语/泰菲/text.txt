@@ -1,0 +1,14 @@
+vo_tuffy_01.mp3|Uncle Jerry, I ate all the cheese you brought back, but I'm still hungry. Take a break. This time I'll get my own cheese.
+vo_tuffy_02.mp3|I know it's dangerous out there, Uncle Jerry. Don't worry, I'll stay here.
+vo_tuffy_03.mp3|Right. Doesn't Cousin Muscles live nearby, Uncle Jerry? We can ask him for help.
+vo_tuffy_04.mp3|Oh, I'm starving. I hope it gets here soon.
+vo_tuffy_05.mp3|You're here at last, Cousin Muscles. Tom's been picking on Jerry again.
+vo_tuffy_06.mp3|Cousin Muscles, all the cheese was hidden away by Tom. It'll be hard for us to find any.
+vo_tuffy_07.mp3|Robots that can find cheese? That sounds like a miracle!
+vo_tuffy_08.mp3|Uncle Jerry, I also just pushed a wedge of cheese through. My first cheese!
+vo_tuffy_09.mp3|Yeah! More cheese to eat! This is awesome! Uh-oh. Tom's here.
+vo_tuffy_10.mp3|Tom's being mean. I'm scared.
+vo_tuffy_11.mp3|Thanks, Uncle Jerry. You're the best.
+vo_tuffy_12.mp3|Cousin Muscles, the mouse holes are all blocked by cheese. There's no way back.
+vo_tuffy_13.mp3|Uncle Jerry, I'm here to save you.
+vo_tuffy_14.mp3|Don't hurt me, nice kitty.

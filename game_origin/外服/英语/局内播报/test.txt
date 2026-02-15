@@ -1,0 +1,19 @@
+vo_stage_cat_01.mp3|A robot mouse is on site.
+vo_stage_cat_02.mp3|A mouse is on site.
+vo_stage_cat_03.mp3|The mice have picked up some cheese.
+vo_stage_cat_04.mp3|They've pushed through a wedge of cheese.
+vo_stage_cat_05.mp3|They've pushed through two wedges of cheese.
+vo_stage_cat_06.mp3|They've pushed through three wedges of cheese.
+vo_stage_cat_07.mp3|They've pushed through four wedges of cheese.
+vo_stage_cat_08.mp3|There's a crack in the wall. Stop the mice from escaping.
+vo_stage_cat_09.mp3|A mouse has been rescued.
+vo_stage_cat_10.mp3|A mouse has been eliminated.
+vo_stage_mouse_01.mp3|The cat is on site.
+vo_stage_mouse_02.mp3|Move out and grab the cheese.
+vo_stage_mouse_03.mp3|A wedge of cheese has been pushed through.
+vo_stage_mouse_04.mp3|There's a crack in the wall.
+vo_stage_mouse_05.mp3|A mouse has been caught.
+vo_stage_mouse_06.mp3|A mouse has been tied to a rocket.
+vo_stage_mouse_07.mp3|A mouse has been rescued.
+vo_stage_mouse_08.mp3|A teammate has been dispatched.
+vo_stage_welcome.mp3|Welcome to Tom and Jerry Chase.
