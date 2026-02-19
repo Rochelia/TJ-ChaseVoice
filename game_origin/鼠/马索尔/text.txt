@@ -75,3 +75,4 @@ vo_skill_adult_bigbrother_5.mp3|升龙拳
 vo_skill_adult_bigbrother_6.mp3|游龙拳
 vo_skill_adult_bigbrother_7.mp3|定龙拳
 vo_skill_adult_bigbrother_8.mp3|表哥来也
+vo_skill_adult_bigbrother_10.mp3|离我远点
