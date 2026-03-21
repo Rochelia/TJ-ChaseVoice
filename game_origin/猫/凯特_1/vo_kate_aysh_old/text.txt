@@ -1,0 +1,6 @@
+vo_kate_aysh_1.mp3|爱是一个浅浅的微笑。
+vo_kate_aysh_1_b.mp3|做你的守护神，做你的避风港
+vo_kate_aysh_skill_1.mp3|爱的奥秘是什么？
+vo_kate_aysh_skill_1_b.mp3|我会找到答案
+vo_kate_aysh_skill_2.mp3|来守护我
+vo_kate_aysh_skill_2_b.mp3|自由奔跑吧！

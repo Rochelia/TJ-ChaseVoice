@@ -42,6 +42,8 @@ guide_bigbrother_14.mp3|时间不多，我们赶紧去侦查奶酪吧。
 guide_bigbrother_15.mp3|你们真棒，罗宾汉也已经运完了一块奶酪。
 guide_bigbrother_16.mp3|恭喜你杰瑞，你发现了经验蛋糕，经验蛋糕能为你增加经验值，赶快将它捡起来吧。
 guide_bigbrother_17.mp3|大家加把劲，我们马上就能获得奶酪行动的大胜利了。
-guide_bigbrother_18.mp3|汤姆被暂时打晕了，杰瑞,你先去救泰菲，让罗宾汉、航海士帮你遛猫。
-guide_bigbrother_19.mp3|汤姆又来了，杰瑞，你和泰菲先去打洞，让罗宾、汉航海士帮你牵制汤姆。
+guide_bigbrother_18.mp3|汤姆被暂时打晕了，杰瑞，你先去救泰菲，让罗宾汉、航海士帮你遛猫。
+guide_bigbrother_18_1.mp3|汤姆被暂时打晕了，杰瑞，你先去救泰菲，让罗宾汉和海盗帮你遛猫。
+guide_bigbrother_19.mp3|汤姆又来了，杰瑞，你和泰菲先去打洞，让罗宾汉、航海士帮你牵制汤姆。
+guide_bigbrother_19_1.mp3|汤姆又来了，杰瑞，你和泰菲先去打洞，让罗宾汉和海盗帮你牵制汤姆。
 guide_bigbrother_20.mp3|杰瑞已经打开了墙洞，大家赶紧撤离吧。

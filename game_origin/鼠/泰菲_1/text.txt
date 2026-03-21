@@ -33,6 +33,12 @@ vo_robintuffy_xxlq_skill_1.mp3|圆球龙骑士出击！
 vo_robintuffy_xxlq_skill_1_b.mp3|这可是属于罗宾汉的绝学！
 vo_robintuffy_xxlq_skill_2.mp3|顺着藤蔓往上爬，可以找到龙的巢穴吗？
 vo_robintuffy_xxlq_skill_2_b.mp3|酷酷藤蔓也是我的好朋友哦~
+vo_tuffy_angle_yzzg_1.mp3|快来跟我一起为远征队歌唱吧
+vo_tuffy_angle_yzzg_1_b.mp3|以赞歌起誓，愿远征队的前途永不蒙尘
+vo_tuffy_angle_yzzg_skill_1.mp3|听，唱诗声会为大家抚平伤痛哦
+vo_tuffy_angle_yzzg_skill_1_b.mp3|天使的光芒会保佑每一个迷路的伙伴
+vo_tuffy_angle_yzzg_skill_2.mp3|看，远征的荣光照亮云霄！
+vo_tuffy_angle_yzzg_skill_2_b.mp3|天使翅膀上的光辉是为大家编织的祝福哦~
 vo_tuffy_jcf_1.mp3|师傅，师傅，我又饿了~
 vo_tuffy_jcf_1_b.mp3|过年是不是有很多好吃的呀？
 vo_tuffy_jcf_skill_1.mp3|咯吱咯吱，泰菲来咯！

@@ -44,6 +44,8 @@ vo_mixueer_43.mp3|请求救援
 vo_mixueer_44.mp3|撤退，保存实力
 vo_mixueer_45.mp3|别管我，快去破坏墙缝！
 vo_mixueer_46.mp3|奶酪已经压好了
+vo_mixueer_als_skill_3.mp3|慢慢下落，就像在兔子洞里探险一样安全
+vo_mixueer_als_skill_3_b.mp3|冒险开始了，跟我来吧！
 vo_mixueer_hmhk_1.mp3|遥知不是雪,唯有暗香来。
 vo_mixueer_huatong_1.mp3|我想将幸福送给你
 vo_mixueer_jlgz_1.mp3|我来自美丽的精灵之森
@@ -52,12 +54,16 @@ vo_mixueer_jlgz_2.mp3|小小的我，也有大力量！
 vo_mixueer_jlgz_2_02.mp3|我能变成精灵
 vo_mixueer_jlgz_3.mp3|呜~帮帮小精灵吧
 vo_mixueer_jlgz_3_02.mp3|呜~别欺负我
+vo_mixueer_jlgz_skill_3.mp3|精灵的魔法会帮助你哟
+vo_mixueer_jlgz_skill_3_b.mp3|森林的祝福护佑着你
 vo_mixueer_lawy_1.mp3|春风吹又生，桃花笑春风。
 vo_mixueer_lawy_1_b.mp3|春分雨脚落声微，柳岸斜风带客归。
 vo_mixueer_lawy_skill_1.mp3|杨柳依依风拂面
 vo_mixueer_lawy_skill_1_b.mp3|春风徐徐桃花开
 vo_mixueer_lawy_skill_2.mp3|溪流潺潺映绿意
 vo_mixueer_lawy_skill_2_b.mp3|十里春风杨柳依
+vo_mixueer_lawy_skill_3.mp3|轻云岭上乍摇风，嫩柳池边初拂水。
+vo_mixueer_lawy_skill_3_b.mp3|飘飘何所似？柳丝绦绦，静听春风细语。
 vo_mixueer_ngmv_1.mp3|小魔女，也有大力量
 vo_mixueer_yjln_1.mp3|龙行踏绛气，天半语相闻。
 vo_mixueer_yjln_1_b.mp3|龙吟九霄，雨霖四野
@@ -65,6 +71,8 @@ vo_mixueer_yjln_skill_1.mp3|灵龙踏云来！
 vo_mixueer_yjln_skill_1_b.mp3|龙跃千里
 vo_mixueer_yjln_skill_2.mp3|遇龙现真身
 vo_mixueer_yjln_skill_2_b.mp3|小龙女发现你了哟~
+vo_mixueer_yjnv_skill_3.mp3|小龙女驾到，尔等安敢造次？
+vo_mixueer_yjnv_skill_3_b.mp3|翩若惊鸿，宛若游龙
 vo_mixueer_yuetu_1.mp3|你喜欢我吗？
 vo_mixuer_alice_1.mp3|和兔子先生约定的下午茶时间就要到了
 vo_mixuer_alice_1_b.mp3|欢迎来到爱丽丝的奇幻仙境
