@@ -14,3 +14,9 @@ vo_suri_sxhx_1.mp3|火树银花合，星桥铁锁开。
 vo_suri_sxhx_1_b.mp3|灯树千光照，花焰七枝开。
 vo_suri_wdgz_1.mp3|我最喜欢软软的床垫啦！
 vo_suri_wdgz_1_b.mp3|我可不是娇气的小公主
+vo_suri_yzx_1.mp3|这场雨中派对已经开始了，和我一起出发吧～
+vo_suri_yzx_1_b.mp3|握住雨伞，提起裙摆，跳过积水——嘿呦！
+vo_suri_yzx_skill_1.mp3|来吧，来吧～来这暴雨中与我共舞一曲吧！
+vo_suri_yzx_skill_1_b.mp3|我可要转动雨伞咯，快跟上我的节拍！
+vo_suri_yzx_skill_2.mp3|看到了吗？我的天气瓶是不是像彩虹一样
+vo_suri_yzx_skill_2_b.mp3|天气瓶的颜色变咯，雨可要下得更猛烈啦！

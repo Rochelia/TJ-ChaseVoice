@@ -35,3 +35,9 @@ vo_mali_zql_1_02.mp3|涅槃重生！
 vo_mali_zql_skill_1.mp3|燃烧吧
 vo_mali_zql_skill_1_02.mp3|朱雀听令！
 vo_mali_zql_skill_2.mp3|腾云而上
+vo_marry_dxnw_1.mp3|这城市的光鲜之下，总有藏在阴影中的一面。
+vo_marry_dxnw_1_b.mp3|欢迎来到我的领地——但愿你有足够的筹码上桌。
+vo_marry_dxnw_skill_1.mp3|这份礼仪，可不面向聒噪的客人。
+vo_marry_dxnw_skill_1_b.mp3|地下女王的规则，不接受任何忤逆
+vo_marry_dxnw_skill_2.mp3|你的视野模糊了？真可惜，我的目标从未改变。
+vo_marry_dxnw_skill_2_b.mp3|试着躲藏吧，你终究会为窥探女王付出代价！

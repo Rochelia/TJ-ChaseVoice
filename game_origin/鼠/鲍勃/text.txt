@@ -20,3 +20,9 @@ vo_boom_19.mp3|猫大哥,放了我吧
 vo_boom_20.mp3|小猫咪,你给我等着。
 vo_boom_21.mp3|小猫咪，我不怕你哦
 vo_boom_22.mp3|哇，你还挺厉害！
+vo_boom_nzys_1.mp3|瘟疫源之于我，救赎亦源之于我。
+vo_boom_nzys_1_b.mp3|我不能停下，它仍在蔓延……时间不多了。
+vo_boom_nzys_skill_1.mp3|尝试药的疗效，我先来吧
+vo_boom_nzys_skill_1_b.mp3|这是解药……也是救赎
+vo_boom_nzys_skill_2.mp3|正确的抉择，可以救下更多的患者。
+vo_boom_nzys_skill_2_b.mp3|别紧张，痛苦只是暂时的。

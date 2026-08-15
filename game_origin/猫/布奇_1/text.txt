@@ -8,3 +8,11 @@ vo_buqi_glqkj_skill_3.mp3|我可是最佳球员
 vo_buqi_glqkj_skill_3_b.mp3|看我的，击中目标！
 vo_buqi_hws_1.mp3|想和我比？你还差了点。
 vo_buqi_hws_1_b.mp3|我就是剑道的化身
+vo_butch_gjyy_1.mp3|帷幕即将拉开，今夜，谁将成为我的女主角呢？
+vo_butch_gjyy_1_b.mp3|驻足于我的歌声中吧，我已别无所求。
+vo_butch_gjyy_skill_1.mp3|我穿梭于现实与幻象的缝隙，我即是幽影本身
+vo_butch_gjyy_skill_1_b.mp3|安静，聆听我的降临。
+vo_butch_gjyy_skill_2.mp3|奏响这属于管风琴的旋律吧！
+vo_butch_gjyy_skill_2_b.mp3|在歌剧院的穹顶下，我的乐章永不落幕
+vo_butch_gjyy_skill_3.mp3|幽影赠予观众的邀请函，您可曾收到？
+vo_butch_gjyy_skill_3_b.mp3|那是属于幽影的礼物，欢迎来到我的舞台。

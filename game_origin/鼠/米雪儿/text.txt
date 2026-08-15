@@ -46,6 +46,14 @@ vo_mixueer_45.mp3|别管我，快去破坏墙缝！
 vo_mixueer_46.mp3|奶酪已经压好了
 vo_mixueer_als_skill_3.mp3|慢慢下落，就像在兔子洞里探险一样安全
 vo_mixueer_als_skill_3_b.mp3|冒险开始了，跟我来吧！
+vo_mixueer_gjxn_1.mp3|这座歌剧院，究竟是属于我的舞台……或是牢笼？
+vo_mixueer_gjxn_1_b.mp3|覆水难收的演出，让我来为它完成落幕的最后一场
+vo_mixueer_gjxn_skill_1.mp3|我的歌声绝不止属于黑夜，我要歌唱到黎明！
+vo_mixueer_gjxn_skill_1_b.mp3|可曾感受到歌声中，那份动人心扉的共鸣？
+vo_mixueer_gjxn_skill_2.mp3|假面舞会已经开始，来吧，来吧，一起歌唱吧！
+vo_mixueer_gjxn_skill_2_b.mp3|镜中的我扮演着角色……这剧目的故事，早已写就。
+vo_mixueer_gjxn_skill_3.mp3|来吧，来吧，舞伴，让我们共舞这最后一曲！
+vo_mixueer_gjxn_skill_3_b.mp3|我将亲手裁剪命运之纱，镜中的幻影，终将破碎。
 vo_mixueer_hmhk_1.mp3|遥知不是雪,唯有暗香来。
 vo_mixueer_huatong_1.mp3|我想将幸福送给你
 vo_mixueer_jlgz_1.mp3|我来自美丽的精灵之森

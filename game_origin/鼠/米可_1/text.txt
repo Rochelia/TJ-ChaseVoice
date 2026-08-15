@@ -1,3 +1,9 @@
+vo_mike_bxmy_1.mp3|生命不该被拘束，就像风不该被定义。
+vo_mike_bxmy_1_b.mp3|我的镜头里可没有规则，只有无限的可能
+vo_mike_bxmy_skill_1.mp3|准备好被定格了吗？让时间稍作停留吧
+vo_mike_bxmy_skill_1_b.mp3|嘘，别动，我要按下快门了。
+vo_mike_bxmy_skill_2.mp3|现在映入我眼中的景色，将会是未来的回响。
+vo_mike_bxmy_skill_2_b.mp3|胶片里，可藏着时光的备份呢
 vo_mike_jyw_1.mp3|锦衣卫办事，通通回避！
 vo_mike_jyw_1_02.mp3|锦衣卫出手，就没有拿不到的东西。
 vo_mike_jyw_skill_1.mp3|小心了

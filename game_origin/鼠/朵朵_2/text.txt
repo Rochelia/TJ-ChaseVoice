@@ -6,3 +6,9 @@ vo_duoduo_feszg_skill_2.mp3|抱歉，我不是故意伤到您的。
 vo_duoduo_feszg_skill_2_b.mp3|陶瓷的心，也能梦到蛋糕的甜美吗？
 vo_duoduo_jxnl_1.mp3|机械的心，才更好游走在危险边缘哦~
 vo_duoduo_jxnl_1_b.mp3|正义还是邪恶？
+vo_duoduo_tpnl_1.mp3|璀璨的聚光灯，正如夜空中悬挂的每一颗星。
+vo_duoduo_tpnl_1_b.mp3|这座奖杯，记录着那些攀登知识高阶的日夜。
+vo_duoduo_tpnl_skill_1.mp3|下一篇论文，我已经选好题目了！
+vo_duoduo_tpnl_skill_1_b.mp3|跳频技术的灵感，可是来自于自动钢琴哦
+vo_duoduo_tpnl_skill_2.mp3|让我重新校准一下输出功率……完美！
+vo_duoduo_tpnl_skill_2_b.mp3|向你展示一下，源自头脑的力量吧
