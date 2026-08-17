@@ -28,9 +28,9 @@ game_origin/
 
 ├── 猫
 
-│&emsp;├── 汤姆（猫方通用）
+│&emsp;&emsp;├── 汤姆（猫方通用）
 
-│   │   ├── mood/
+│&emsp;&emsp;│&emsp;&emsp;├── mood/
 
 │   │   └── 局内语音
 
