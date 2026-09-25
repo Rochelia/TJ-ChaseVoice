@@ -24,5 +24,13 @@ vo_lighting_kungfuking_02.mp3|敌不动，我不动
 vo_lighting_kungfuking_02_b.mp3|敌欲动，我先动
 vo_lighting_kungfuking_03.mp3|闪现！
 vo_lighting_kungfuking_skill_1.mp3|试试我的功夫咸鱼
+vo_lighting_yhmy_1.mp3|神爱世人，世人沉浸于梦中……却唯独只爱黄金。
+vo_lighting_yhmy_1_b.mp3|向我祈祷吧，前提是，你付得起做梦的价格！
+vo_lighting_yhmy_skill_1.mp3|我在深渊中行走
+vo_lighting_yhmy_skill_1_b.mp3|尝试跟上我的步伐吧，在梦溃散之前。
+vo_lighting_yhmy_skill_2.mp3|一切都可以明码标价，亲爱的。
+vo_lighting_yhmy_skill_2_b.mp3|廉价的劣质品，只配待在垃圾桶里。
+vo_lighting_yhmy_skill_3.mp3|被异化的感觉，你品尝到了吗？
+vo_lighting_yhmy_skill_3_b.mp3|闻到了吗？属于金钱的味道，属于真理的味道。
 vo_lightning_scfy_1.mp3|尚乘奉御，掌率习驭，掌闲、驾士及秣饲之法。
 vo_lightning_scfy_1_b.mp3|新铸官马铜牌千面，皆赞尚乘奉御监，妙哉！
